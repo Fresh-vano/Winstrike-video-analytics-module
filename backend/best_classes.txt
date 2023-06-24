@@ -1,0 +1,4 @@
+truck
+excavator
+tractor
+lifting_crane
